@@ -10,7 +10,7 @@ const Container = styled.div
   display:flex;
   justify-content:space-between;
   align-items:center;
-  min-height:100vh;
+  min-height:70vh;
   width:100%; 
 `
 
@@ -62,7 +62,7 @@ const Button = styled.button`
 `
 
 const Image = styled.img
-`
+    `
   width:100%;
   object-fit:'fit';
 `
