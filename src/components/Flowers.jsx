@@ -57,7 +57,7 @@ const Flowers = () => {
 
                     <Select name="sort">
                         <option value="prices(ASC)">prices(ASC)</option>
-                        <option value="prices(DSC)">prices(ASC)</option>
+                        <option value="prices(DSC)">prices(DSC)</option>
                     </Select>
                 </Divide>
             </Container>
